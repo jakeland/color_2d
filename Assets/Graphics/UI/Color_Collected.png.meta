@@ -1,7 +1,11 @@
 fileFormatVersion: 2
 guid: 7637ba6e475e29d47bad8be03f3c2dfc
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: Color_Collected_0
+    21300002: Color_Collected_1
+    21300004: Color_Collected_2
+    21300006: Color_Collected_3
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -25,13 +29,13 @@ TextureImporter:
   maxTextureSize: 1024
   textureSettings:
     filterMode: -1
-    aniso: -1
+    aniso: 1
     mipBias: -1
-    wrapMode: -1
+    wrapMode: 1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -42,6 +46,46 @@ TextureImporter:
   textureType: 8
   buildTargetSettings: []
   spriteSheet:
-    sprites: []
+    sprites:
+    - name: Color_Collected_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 643
+        height: 649
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Color_Collected_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 715
+        width: 373
+        height: 265
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Color_Collected_2
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 1
+        width: 296
+        height: 832
+      alignment: 9
+      pivot: {x: .315002024, y: .495124757}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Color_Collected_3
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 0
+        width: 817
+        height: 980
+      alignment: 9
+      pivot: {x: .852501094, y: .70074296}
+      border: {x: 0, y: 0, z: 0, w: 0}
   spritePackingTag: 
   userData: 

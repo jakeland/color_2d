@@ -46,11 +46,19 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Remover.cs" />
+     <Compile Include="Assets\ColorCounter.cs" />
+     <Compile Include="Assets\Death.cs" />
      <Compile Include="Assets\Scripts\CameraFollow.cs" />
+     <Compile Include="Assets\Scripts\ColorPickUp.cs" />
+     <Compile Include="Assets\Scripts\Enemy_Flight.cs" />
      <Compile Include="Assets\Scripts\PlayerControl.cs" />
      <Compile Include="Assets\Scripts\PlayerHealth.cs" />
+     <Compile Include="Assets\Scripts\Remover.cs" />
+     <Compile Include="Assets\Scripts\RollControl.cs" />
      <Compile Include="Assets\Scripts\SpawnPlayer.cs" />
+     <Compile Include="Assets\Scripts\StationaryEnemyScript.cs" />
+     <Compile Include="Assets\Scripts\TowerBounce.cs" />
+     <Compile Include="Assets\Scripts\UI.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

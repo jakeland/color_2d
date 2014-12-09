@@ -1,8 +1,16 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="..\2_Brains_1_Robot\Assets\PlayerController.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Death.cs">
     <Files>
-      <File FileName="..\2_Brains_1_Robot\Assets\PlayerController.cs" Line="50" Column="3" />
+      <File FileName="Assets\Scripts\Remover.cs" Line="15" Column="96" />
+      <File FileName="Assets\Scripts\PlayerControl.cs" Line="90" Column="110" />
+      <File FileName="Assets\Scripts\CameraFollow.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ColorPickUp.cs" Line="17" Column="6" />
+      <File FileName="Assets\Scripts\UI.cs" Line="20" Column="26" />
+      <File FileName="Assets\Scripts\PlayerHealth.cs" Line="45" Column="6" />
+      <File FileName="Assets\Death.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\StationaryEnemyScript.cs" Line="33" Column="4" />
+      <File FileName="Assets\Scripts\Enemy_Flight.cs" Line="15" Column="3" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
